@@ -1,6 +1,6 @@
 {
     "name": "BigQuotaOperation",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://discord.gg/SDY8KZ6g3P",
     "description": "More challange, more fun, more horror... And bug fixes.",
     "dependencies": [
@@ -65,7 +65,7 @@
         "no00ob-LCSoundTool-1.5.1",
         "Clementinise-CustomSounds-2.3.2",
         "vlad166-CreepySoundPack-2.0.1",
-        "Synaxin-Zombies-0.3.1",
+        "Synaxin-Zombies-0.3.7",
         "Sigurd-CSync-5.0.1"
     ]
 }
