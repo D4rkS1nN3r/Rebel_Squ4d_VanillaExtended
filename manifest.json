@@ -1,6 +1,6 @@
 {
     "name": "BigQuotaOperation",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "website_url": "https://discord.gg/SDY8KZ6g3P",
     "description": "More challange, more fun, more horror... And bug fixes.",
     "dependencies": [
@@ -72,6 +72,7 @@
         "Hamunii-DetourContext_Dispose_Fix-1.0.3",
         "willis81808-LethalSettings-1.4.0",
         "LethalCompanyModding-VertexLibrary-1.0.0",
-        "Zaggy1024-PathfindingLagFix-1.4.0"
+        "Zaggy1024-PathfindingLagFix-1.4.0",
+        "gamehog44-LethalRadiation-1.2.2"
     ]
 }
