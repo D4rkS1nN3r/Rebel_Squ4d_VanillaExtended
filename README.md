@@ -1,2 +1,3 @@
 # BigQuotaOperation
- ### The purpose of the modpack is to expand vanilla mechanics, add horror and fun moments, and make gameplay more challenging. And some bugs fix.
+ #### The purpose of the modpack is to expand vanilla mechanics, add horror and fun moments, and make gameplay more challenging.
+ HUD has been redesigned to display information in a more convenient and informative way. Some bugs have been fixed. Added insanity mechanics where you can hear/see hallucinations. Masks now speak in your friends' voices (or your voice). Added horror sounds. And in between quotas, you can relax in the casino!
