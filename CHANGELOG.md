@@ -1,3 +1,7 @@
+## 1.1.1
+- Updated mods:
+	- LethalCasino (fix wheel)
+
 ## 1.1.0
 - Updated mods:
 	- CullFactory
